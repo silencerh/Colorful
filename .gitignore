@@ -1,0 +1,5 @@
+#Folders not to sync
+glm/
+
+#Files not to sync
+SDL.dll
